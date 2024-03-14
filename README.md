@@ -1,7 +1,7 @@
 ## About Wakshuma
-* [About](#about_him)
-* [education](#Education's)
-* [Adress](#adress)
+* [About](#about)
+* [education](#education)
+* [Adress](#Adress)
 
 ## About
 MY NAME IS Wakshuma delesa fufua I'm from Adam ethiopia and I'm 21 years old

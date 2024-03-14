@@ -14,10 +14,8 @@ I;m educated for more than 16 years in school life in fact its not funnny
 * university : AT ASTU
 now I have Bsc degrr in ELECTRICAL AND COMPUTER ENGINEERING 
 	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
+## Adress
+* location:ASTU
+* EMAIL:WAKSHUAM@GMIL.COM
+* PHONE:0909009090
+* CB:100001001001
